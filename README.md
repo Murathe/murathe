@@ -1,4 +1,4 @@
-### Hi there 👋
+### Give me a minute and an code bug/error and I'll be back with both 👋
 
 <!--
 **Murathe/murathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
