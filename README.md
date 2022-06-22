@@ -1,4 +1,28 @@
-### Give me a minute and an error and I'll be back with both 👋
+<h2 align="center"> Give me a minute and an error and I'll be back without both</h2>
+
+<div id="top" align="center">
+  <img size="small" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+<div align="center">
+  <a href="https://hashnode.com/murathe">
+    <img src="https://img.shields.io/badge/Hashnode-success?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
+  <a href="https://twitter.com/murathe_a">
+    <img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://twitter.com/murathe_a">
+    <img src="https://img.shields.io/badge/Resume-yellowgreen?style=for-the-badge&logo=Resume&logoColor=white" alt="Resume Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/isaac-murathe-3182011a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-cyan?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=murathe"/ alt="Github Visitors Page Count">
+</div>
+
+
+
 
 <!--
 **Murathe/murathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
