@@ -45,5 +45,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 With inspirations from great ReadMe from awesome devs, see a collection of the same and draw your inspiration as it pleases.
+https://github.com/Murathe/awesome-github-profile-readme
 
 -->
